@@ -1,0 +1,14 @@
+B. Download the dart SDK
+D. dart --Version
+B. Update the PATH
+C. Flutter run
+B. Download Python from the official website
+C. Add Python to PATH
+A. By running Python --Version
+A. SUDO install pip
+c. To separate project dependencies and avoid conflict
+B. Download MYSQL installer from official website
+D. Custom
+A. MYSQL Server, Workbench, and SHELL
+B. To secure your MySQL installation with a super-secret password
+B. Launch MySQL Workbench and connect to your MySQL Server
